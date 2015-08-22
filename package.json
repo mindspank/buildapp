@@ -14,5 +14,7 @@
     }
   ],
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "promise": "^7.0.4"
+  }
 }
